@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AstarPathfindingProject/ExampleScenes/Example2_Terrain/Example2.unity
+  isLoaded: 0
+  isActive: 0
